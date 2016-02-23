@@ -1,9 +1,4 @@
-<div class="col-sm-4 col-xs-12">
-      <h3>Карта проезда:</h3>
-      <div id="map"></div>
-    </div>
-  </div>
-</div>
+
 <div id="custom-alert-modal" class="modal fade" role="dialog">
         <div class="modal-dialog">
             <div class="modal-content clearfix">
