@@ -1,15 +1,3 @@
-
-<div id="custom-alert-modal" class="modal fade" role="dialog">
-        <div class="modal-dialog">
-            <div class="modal-content clearfix">
-                <div class="modal-body">
-                	<p id="custom-alert-text"></p>
-                	<div class="landing-button pull-right" style="margin-bottom:15px" data-dismiss="modal">OK</div>
-                </div>
-            </div>
-        </div>
-    </div>
-<div style="display:none">
  <script type="text/javascript">
    function submitForm (form) {
 if (document.getElementsByName("name")[0].value == "") {
